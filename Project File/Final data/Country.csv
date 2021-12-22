@@ -1,0 +1,241 @@
+Country_cd,Country,Continent,Region
+AD,Andorra,Unlisted,Unlisted
+AI,Anguilla,Unlisted,Unlisted
+EH,Western Sahara,Asia,Middle East
+AE,United Arab Emirates,Asia,Middle East
+AF,Afghanistan,Asia,Asia
+AG,Antigua and Barbuda,America,Americas
+AS,American Samoa,Unlisted,Unlisted
+AL,Albania,Europe,Europe
+AM,Armenia,Europe,Asia
+AO,Angola,Africa,Africa
+AR,Argentina,America,Americas
+AW,Aruba,Unlisted,Unlisted
+AT,Austria,Europe,Europe
+AU,Australia,Oceania,Pacific
+BL,Saint Barthélemy,Unlisted,Unlisted
+AZ,Azerbaijan,Europe,Asia
+BA,Bosnia and Herzegovina,Europe,Europe
+BB,Barbados,America,Americas
+BD,Bangladesh,Asia,Asia
+BE,Belgium,Europe,Europe
+BF,Burkina Faso,Africa,Africa
+BG,Bulgaria,Europe,Europe
+BH,Bahrain,Asia,Middle East
+BI,Burundi,Africa,Africa
+BJ,Benin,Africa,Africa
+BM,Bermuda,Unlisted,Unlisted
+BO,Bolivia,Unlisted,Unlisted
+BN,Brunei Darussalam,Asia,Asia
+CD,Democratic Republic of the Congo,Unlisted,Unlisted
+BR,Brazil,America,Americas
+BS,Bahamas,America,Americas
+BT,Bhutan,Asia,Asia
+BW,Botswana,Africa,Africa
+BY,Belarus,Europe,Europe
+BZ,Belize,America,Americas
+CA,Canada,America,Americas
+CK,Cook Islands,Unlisted,Unlisted
+CF,Central African Republic,Africa,Africa
+CG,Congo,Africa,Africa
+CH,Switzerland,Europe,Europe
+CI,Cote d'lvoire,Africa,Africa
+CW,Curaçao,Unlisted,Unlisted
+CL,Chile,America,Americas
+CM,Cameroon,Africa,Africa
+CN,China,Asia,Asia
+CO,Colombia,America,Americas
+CR,Costa Rica,America,Americas
+CU,Cuba,America,Americas
+CV,Cabo Verde,Africa,Africa
+FK,Falkland Islands (Malvinas),Unlisted,Unlisted
+CY,Cyprus,Europe,Europe
+CZ,Czechia,Europe,Europe
+DE,Germany,Europe,Europe
+DJ,Djibouti,Africa,Africa
+DK,Denmark,Europe,Europe
+DM,Dominica,America,Americas
+DO,Dominican Republic,America,Americas
+DZ,Algeria,Africa,Africa
+EC,Ecuador,America,Americas
+EE,Estonia,Europe,Europe
+EG,Egypt,Africa,Africa
+ER,Eritrea,Africa,Africa
+ES,Spain,Europe,Europe
+ET,Ethiopia,Africa,Africa
+FI,Finland,Europe,Europe
+FJ,Fiji,Oceania,Pacific
+FM,Micronesia (Federated States of),Unlisted,Unlisted
+FO,Faroe Islands,Unlisted,Unlisted
+GF,French Guiana,Unlisted,Unlisted
+FR,France,Europe,Europe
+GA,Gabon,Africa,Africa
+GB,United Kingdom,Europe,Europe
+GD,Grenada,America,Americas
+GE,Georgia,Europe,Europe
+GG,Guernsey,Unlisted,Unlisted
+GI,Gibraltar,Unlisted,Unlisted
+GH,Ghana,Africa,Africa
+GL,Greenland,Unlisted,Unlisted
+GP,Guadeloupe,Unlisted,Unlisted
+GM,Gambia,Africa,Africa
+GN,Guinea,Africa,Africa
+GU,Guam,Unlisted,Unlisted
+GQ,Equatorial Guinea,Africa,Africa
+GR,Greece,Europe,Europe
+GT,Guatemala,America,Americas
+HK,Hong Kong,Unlisted,Unlisted
+GW,Guinea-Bissau,Africa,Africa
+GY,Guyana,America,Americas
+IR,Iran (Islamic Republic of),Unlisted,Unlisted
+HN,Honduras,America,Americas
+HR,Croatia,Europe,Europe
+HT,Haiti,America,Americas
+HU,Hungary,Europe,Europe
+ID,Indonesia,Asia,Asia
+IE,Ireland,Europe,Europe
+IL,Israel,Asia,Middle East
+IN,India,Asia,Asia
+IQ,Iraq,Asia,Middle East
+JE,Jersey,Unlisted,Unlisted
+IS,Iceland,Europe,Europe
+IT,Italy,Europe,Europe
+JM,Jamaica,America,Americas
+JO,Jordan,Asia,Middle East
+JP,Japan,Asia,Asia
+KE,Kenya,Africa,Africa
+KG,Kyrgyzstan,Asia,Asia
+KH,Cambodia,Asia,Asia
+KI,Kiribati,Unlisted,Unlisted
+KM,Comoros,Africa,Africa
+KN,Saint Kitts and Nevis,America,Americas
+KP,Democratic People's Republic of Korea,Unlisted,Unlisted
+KR,Republic of Korea,Unlisted,Unlisted
+KW,Kuwait,Asia,Middle East
+KY,Cayman Islands,Unlisted,Unlisted
+KZ,Kazakhstan,Asia,Asia
+LA,Lao People's Democratic Republic,Unlisted,Unlisted
+LB,Lebanon,Asia,Middle East
+LC,Saint Lucia,America,Americas
+LI,Liechtenstein,Europe,Europe
+LK,Sri Lanka,Asia,Asia
+LR,Liberia,Africa,Africa
+LS,Lesotho,Africa,Africa
+LT,Lithuania,Europe,Europe
+LU,Luxembourg,Europe,Europe
+LV,Latvia,Europe,Europe
+LY,Libya,Africa,Africa
+MA,Morocco,Africa,Africa
+MC,Monaco,Unlisted,Unlisted
+MD,Republic of Moldova,Unlisted,Unlisted
+ME,Montenegro,Europe,Europe
+MF,Saint Martin,Unlisted,Unlisted
+MG,Madagascar,Africa,Africa
+MH,Marshall Islands,Unlisted,Unlisted
+MK,North Macedonia,Unlisted,Unlisted
+ML,Mali,Africa,Africa
+MM,Myanmar,Asia,Asia
+MN,Mongolia,Asia,Asia
+MO,Macao,Unlisted,Unlisted
+MP,Northern Mariana Islands,Unlisted,Unlisted
+MQ,Martinique,Unlisted,Unlisted
+MR,Mauritania,Africa,Africa
+MS,Montserrat,Unlisted,Unlisted
+MT,Malta,Europe,Europe
+MU,Mauritius,Africa,Africa
+MV,Maldives,Asia,Asia
+MW,Malawi,Africa,Africa
+MX,Mexico,America,Americas
+MY,Malaysia,Asia,Asia
+MZ,Mozambique,Africa,Africa
+NA,Namibia,Africa,Africa
+NC,New Caledonia,Unlisted,Unlisted
+NE,Niger,Africa,Africa
+NG,Nigeria,Africa,Africa
+NI,Nicaragua,America,Americas
+NL,Netherlands,Europe,Europe
+NO,Norway,Europe,Europe
+NP,Nepal,Asia,Asia
+NR,Nauru,Unlisted,Unlisted
+NU,Niue,Unlisted,Unlisted
+NZ,New Zealand,Oceania,Pacific
+OM,Oman,Asia,Middle East
+PA,Panama,America,Americas
+PE,Peru,America,Americas
+PF,French Polynesia,Unlisted,Unlisted
+PG,Papua New Guinea,Oceania,Pacific
+PH,Philippines,Asia,Asia
+PK,Pakistan,Asia,Asia
+PL,Poland,Europe,Europe
+PR,Puerto Rico,Unlisted,Unlisted
+PM,Saint Pierre and Miquelo,Unlisted,Unlisted
+PS,Gaza & West Bank,Unlisted,Unlisted
+PT,Portugal,Europe,Europe
+PW,Palau,Unlisted,Unlisted
+PY,Paraguay,America,Americas
+QA,Qatar,Asia,Middle East
+RE,Reunion,Unlisted,Unlisted
+RO,Romania,Europe,Europe
+RS,Serbia,Europe,Europe
+RU,Russian Federation,Europe,Europe
+RW,Rwanda,Africa,Africa
+SA,Saudi Arabia,Asia,Middle East
+SB,Solomon Islands,Unlisted,Unlisted
+SC,Seychelles,Africa,Africa
+SD,Sudan,Africa,Africa
+SE,Sweden,Europe,Europe
+SG,Singapore,Asia,Asia
+SH,Saint Helena,Unlisted,Unlisted
+SI,Slovenia,Europe,Europe
+SK,Slovakia,Europe,Europe
+SL,Sierra Leone,Africa,Africa
+SM,San Marino,Europe,Europe
+SN,Senegal,Africa,Africa
+SO,Somalia,Africa,Africa
+SR,Suriname,America,Americas
+SS,South Sudan,Africa,Africa
+ST,Sao Tome and Principe,Africa,Africa
+SV,El Salvador,America,Americas
+SX,Sint Maarten,Unlisted,Unlisted
+SY,Syrian Arab Republic,Unlisted,Unlisted
+SZ,Eswatini,Africa,Africa
+TC,Turks and Caicos Islands,Unlisted,Unlisted
+TD,Chad,Africa,Africa
+TG,Togo,Africa,Africa
+TH,Thailand,Asia,Asia
+TJ,Tajikistan,Asia,Asia
+TL,Timor-Leste,Asia,Asia
+TM,Turkmenistan,Unlisted,Unlisted
+TN,Tunisia,Africa,Africa
+TO,Tonga,Unlisted,Unlisted
+TR,Turkey,Asia,Middle East
+TT,Trinidad and Tobago,America,Americas
+TV,Tuvalu,Unlisted,Unlisted
+TW,Taiwan,Unlisted,Unlisted
+TZ,United Republic of Tanzania,Unlisted,Unlisted
+UA,Ukraine,Europe,Europe
+UG,Uganda,Africa,Africa
+US,United States,America,Americas
+UY,Uruguay,America,Americas
+UZ,Uzbekistan,Asia,Asia
+VC,Saint Vincent and the Grenadines,America,Americas
+VE,Venezuela,Unlisted,Unlisted
+VG,British Virgin Islands,Unlisted,Unlisted
+VI,United States Virgin Islands,Unlisted,Unlisted
+VN,Viet Nam,Asia,Asia
+VU,Vanuatu,Unlisted,Unlisted
+WF,Wallis and Futuna,Unlisted,Unlisted
+WS,Samoa,Unlisted,Unlisted
+YE,Yemen,Asia,Middle East
+YT,Mayotte,Unlisted,Unlisted
+ZA,South Africa,Africa,Africa
+ZM,Zambia,Africa,Africa
+ZW,Zimbabwe,Africa,Africa
+EU,European Union,Europe,Europe
+XK,Kosovo,Europe,Europe
+BQ- SA,Saba,Europe,Europe
+BQ- SE,Sint Eustatius,Europe,Europe
+BQ-BO,Bonaire,Europe,Europe
+BQ,"Bonaire, Sint Eustatius and Saba",Europe,Europe
+VA,Holy See (Vatican City State),Europe,Europe
+IM,Isle of Man,Europe,Europe

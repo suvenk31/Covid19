@@ -1,0 +1,476 @@
+COUNTRY,Country_cd,LONG,LAT,PUBLISHED,AIRLINE
+Albania,AL,20.066643,41.138926,5/27/2020,Albawings
+Algeria,DZ,2.678028,28.157361,4/20/2020,Air Algerie
+Angola,AO,17.577532,-12.337524,3/27/2020,TAAG
+Antigua and Barbuda,AG,-61.799256,17.077306,5/14/2020,LIAT
+Argentina,AR,-63.578123,-31.578414,3/30/2020,Aerolineas Argentinas
+Argentina,AR,-63.578123,-31.578414,5/2/2020,Aerolineas Argentinas
+Australia,AU,134.354708,-25.573209,3/24/2020,Tigerair Australia
+Australia,AU,134.354708,-25.573209,3/23/2020,Regional Express
+Australia,AU,134.354708,-25.573209,4/9/2020,Virgin Australia
+Australia,AU,134.354708,-25.573209,4/17/2020,Virgin Australia
+Australia,AU,134.354708,-25.573209,4/17/2020,Virgin Australia
+Australia,AU,134.354708,-25.573209,4/6/2020,Virgin Australia
+Australia,AU,134.354708,-25.573209,4/8/2020,Qantas
+Australia,AU,134.354708,-25.573209,5/11/2020,Qantas
+Australia,AU,134.354708,-25.573209,5/19/2020,Qantas
+Australia,AU,134.354708,-25.573209,5/19/2020,Qantas
+Australia,AU,134.354708,-25.573209,4/21/2020,Jetstar
+Australia,AU,134.354708,-25.573209,3/19/2020,Qantas
+Australia,AU,134.354708,-25.573209,3/19/2020,Jetstar
+Australia,AU,134.354708,-25.573209,5/5/2020,Qantas
+Austria,AT,14.141702,47.58705,5/15/2020,Austrian Airlines
+Austria,AT,14.141702,47.58705,5/28/2020,Austrian Airlines
+Austria,AT,14.141702,47.58705,4/24/2020,Wizz
+Austria,AT,14.141702,47.58705,5/21/2020,Laudamotion
+Azerbaijan,AZ,50.010647,40.392295,3/31/2020,Azerbajan Airlines
+Bahrain,BH,50.547509,26.054724,4/4/2020,Gulf Air
+Bahrain,BH,50.547509,26.054724,5/28/2020,Gulf Air
+Bangladesh,BD,90.28042,23.927884,3/5/2020,US Bangla
+Bangladesh,BD,90.28042,23.927884,3/27/2020,Biman Bangladesh
+Bangladesh,BD,90.28042,23.927884,4/29/2020,Biman Bangladesh
+Belarus,BY,28.0494,53.541933,5/22/2020,Belavia
+Belarus,BY,28.0494,53.541933,4/9/2020,Belavia
+Belarus,BY,28.0494,53.541933,4/10/2020,Belavia
+Belarus,BY,28.0494,53.541933,4/30/2020,Belavia
+Belarus,BY,28.0494,53.541933,5/11/2020,Belavia
+Belgium,BE,4.660713,50.640947,3/28/2020,Air Antwerp
+Belgium,BE,4.660713,50.640947,5/13/2020,Air Belgium
+Belgium,BE,4.660713,50.640947,5/15/2020,Brussels Airlines
+Belgium,BE,4.660713,50.640947,5/25/2020,Brussels Airlines
+Belgium,BE,4.660713,50.640947,4/1/2020,TUI Airlines Belgium
+Bhutan,BT,90.427775,27.395175,5/13/2020,Druk Air
+Bosnia and Herzegovina,BA,17.785036,44.168219,3/16/2020,Aegean
+Bosnia and Herzegovina,BA,17.785036,44.168219,3/16/2020,Lufthansa
+Bosnia and Herzegovina,BA,17.785036,44.168219,3/16/2020,Pegasus
+Brazil,BR,-53.089656,-10.772064,5/19/2020,Globalia
+Brazil,BR,-53.089656,-10.772064,3/24/2020,Gol
+Brazil,BR,-53.089656,-10.772064,3/20/2020,Gol
+Brazil,BR,-53.089656,-10.772064,3/30/2020,Gol
+Brazil,BR,-53.089656,-10.772064,3/17/2020,Azul
+Brazil,BR,-53.089656,-10.772064,3/30/2020,Azul
+Brazil,BR,-53.089656,-10.772064,4/13/2020,Azul
+Brazil,BR,-53.089656,-10.772064,4/3/2020,LATAM Brasil
+Brazil,BR,-53.089656,-10.772064,4/21/2020,LATAM Brasil
+Brazil,BR,-53.089656,-10.772064,5/7/2020,LATAM Brasil
+Brazil,BR,-53.089656,-10.772064,5/7/2020,LATAM Brasil
+Brazil,BR,-53.089656,-10.772064,5/26/2020,LATAM Brasil
+Brazil,BR,-53.089656,-10.772064,3/16/2020,Azul Linhas Aereas Brasileiras
+Brunei Darussalam,BN,114.628856,4.49737,3/18/2020,Royal Brunei
+Brunei Darussalam,BN,114.628856,4.49737,5/4/2020,Royal Brunei
+Bulgaria,BG,25.237625,42.757311,4/8/2020,Wizz
+Bulgaria,BG,25.237625,42.757311,5/11/2020,Bulgaria Air
+Bulgaria,BG,25.237625,42.757311,4/30/2020,Bulgaria Air
+Burkina Faso,BF,-1.735501,12.273481,3/20/2020,Air Burkina
+Cambodia,KH,104.922836,12.711638,4/8/2020,Cambodia Airways
+Cambodia,KH,104.922836,12.711638,5/7/2020,Lanmei Airlines
+Cambodia,KH,104.922836,12.711638,5/19/2020,JC Airlines
+Canada,CA,-102.46617,58.040219,4/24/2020,West Jet
+Canada,CA,-102.46617,58.040219,4/22/2020,Air Canada
+Canada,CA,-102.46617,58.040219,3/20/2020,Swoop
+Canada,CA,-102.46617,58.040219,5/11/2020,West Jet
+Canada,CA,-102.46617,58.040219,5/18/2020,Air Canada
+Canada,CA,-102.46617,58.040219,3/27/2020,Harbour Air
+Canada,CA,-102.46617,58.040219,5/22/2020,Air Canada
+Canada,CA,-102.46617,58.040219,4/20/2020,Flair Airlines
+Canada,CA,-102.46617,58.040219,4/30/2020,Canadian North
+Canada,CA,-102.46617,58.040219,5/12/2020,Pacific Coastal
+Canada,CA,-102.46617,58.040219,5/20/2020,Sunwing Airlines
+Cabo Verde,CV,-23.624781,15.083715,3/18/2020,Cabo Verde Airlines
+Cayman Islands,KY,-81.243444,19.318294,4/23/2020,Cayman Airways Express
+Luxembourg,LU,6.092653,49.776797,5/22/2020,Luxair
+Luxembourg,LU,6.092653,49.776797,5/25/2020,Luxair
+Luxembourg,LU,6.092653,49.776797,5/25/2020,Luxair
+Macao,MO,113.547149,22.196997,5/23/2020,Air Macau
+Malaysia,MY,116.834631,5.452415,5/28/2020,Malaysia Airlines
+Malaysia,MY,116.834631,5.452415,4/17/2020,Malaysia Airlines
+Malaysia,MY,116.834631,5.452415,4/17/2020,Malaysia Airlines
+Malaysia,MY,116.834631,5.452415,4/12/2020,Malaysia Airlines
+Malaysia,MY,116.834631,5.452415,5/4/2020,AirAsia
+Malaysia,MY,116.834631,5.452415,3/19/2020,Lion Air
+Malaysia,MY,116.834631,5.452415,4/19/2020,Malindo Air
+Malaysia,MY,116.834631,5.452415,4/20/2020,Malindo Air
+Malaysia,MY,116.834631,5.452415,4/24/2020,Malindo Air
+Maldives,MV,73.545949,1.92666,3/28/2020,Flyme
+Maldives,MV,73.545949,1.92666,4/21/2020,Maldivian
+Malta,MT,14.440213,35.888112,3/19/2020,Air Malta
+Malta,MT,14.440213,35.888112,3/23/2020,Air Malta
+Marshall Islands,MH,168.111299,5.617142,5/23/2020,Air Marshall Islands
+Martinique,MQ,-60.914458,14.566542,5/25/2020,Air Antilles
+Mauritius,MU,57.572082,-20.283505,4/22/2020,Air Mauritius
+Mexico,MX,-102.52608,23.944025,3/31/2020,Volaris
+Mexico,MX,-102.52608,23.944025,3/21/2020,Interjet
+Mexico,MX,-102.52608,23.944025,4/22/2020,Interjet
+Mexico,MX,-102.52608,23.944025,5/1/2020,Vivaaerobus
+Mexico,MX,-102.52608,23.944025,5/19/2020,AeroMexico
+Mexico,MX,-102.52608,23.944025,4/22/2020,Vivaaerobus
+Montenegro,ME,19.252232,42.78762,5/21/2020,Montenegro Airlines
+Morocco,MA,-6.281337,31.841712,2/20/2020,Royal Air Maroc
+Mozambique,MZ,38.182474,-14.279733,5/22/2020,LAM
+Mozambique,MZ,38.182474,-14.279733,5/6/2020,LAM
+Nauru,NR,166.934165,-0.5285,4/30/2020,Nauru Airlines
+Nepal,NP,83.946789,28.258663,3/21/2020,Himalaya Airlines
+Netherlands,NL,5.331481,51.867289,3/31/2020,Transavia
+Netherlands,NL,5.331481,51.867289,3/16/2020,KLM
+Netherlands,NL,5.331481,51.867289,3/24/2020,KLM
+Netherlands,NL,5.331481,51.867289,5/4/2020,KLM
+Netherlands,NL,5.331481,51.867289,4/18/2020,KLM
+Netherlands,NL,5.331481,51.867289,5/8/2020,KLM
+Netherlands,NL,5.331481,51.867289,5/11/2020,KLM
+Netherlands,NL,5.331481,51.867289,5/28/2020,KLM
+New Zealand,NZ,170.475567,-43.987216,4/15/2020,Air New Zealand
+New Zealand,NZ,170.475567,-43.987216,4/27/2020,Air New Zealand
+New Zealand,NZ,170.475567,-43.987216,5/14/2020,Air New Zealand
+New Zealand,NZ,170.475567,-43.987216,5/28/2020,Air New Zealand
+New Zealand,NZ,170.475567,-43.987216,5/26/2020,Air Chathams
+Nicaragua,NI,-85.038304,12.845729,5/20/2020,TACA/ Avianca
+Nigeria,NG,8.111462,9.619246,3/27/2020,Ibom Air
+Nigeria,NG,8.111462,9.619246,3/25/2020,Dana Air
+Nigeria,NG,8.111462,9.619246,3/25/2020,Arik Air
+Nigeria,NG,8.111462,9.619246,3/25/2020,Aero Contractors
+Nigeria,NG,8.111462,9.619246,3/25/2020,Air Peace
+Norway,NO,11.478464,61.343111,4/20/2020,Norwegian
+Norway,NO,11.478464,61.343111,4/27/2020,Norwegian
+Norway,NO,11.478464,61.343111,3/30/2020,SAS (Norway)
+Norway,NO,11.478464,61.343111,5/21/2020,Wider√∏e
+Oman,OM,57.879121,21.990536,3/17/2020,Oman Air
+Pakistan,PK,68.808093,29.37884,4/6/2020,PIA
+Pakistan,PK,68.808093,29.37884,4/18/2020,PIA
+Panama,PA,-80.09271,8.520588,5/22/2020,COPA Airlines
+Peru,PE,-71.821304,-13.590187,5/19/2020,Avianca Peru
+Philippines,PH,120.861863,14.16474,5/13/2020,Philippine AirAsia
+Philippines,PH,120.861863,14.16474,5/13/2020,Philippine Airlines
+Philippines,PH,120.861863,14.16474,5/25/2020,Phillipine Airlines
+Philippines,PH,120.861863,14.16474,5/27/2020,Phillipine Airlines
+Poland,PL,19.406603,52.122668,5/21/2020,LOT
+Portugal,PT,-7.961526,39.685014,3/30/2020,TAP
+Portugal,PT,-7.961526,39.685014,5/8/2020,TAP
+Portugal,PT,-7.961526,39.685014,5/12/2020,TAP
+Portugal,PT,-7.961526,39.685014,5/25/2020,TAP
+Qatar,QA,51.193104,25.286199,4/9/2020,Qatar Airways
+Qatar,QA,51.193104,25.286199,5/10/2020,Qatar Airways
+Qatar,QA,51.193104,25.286199,5/7/2020,Qatar Airways
+Qatar,QA,51.193104,25.286199,3/29/2020,Qatar Airways
+Qatar,QA,51.193104,25.286199,5/14/2020,Qatar Airways
+Qatar,QA,51.193104,25.286199,5/15/2020,Qatar Airways
+Republic of Korea,KR,127.843498,36.448643,4/13/2020,Korean Air
+Republic of Korea,KR,127.843498,36.448643,5/25/2020,Korean Air
+Republic of Korea,KR,127.843498,36.448643,5/6/2020,Asiana
+Republic of Korea,KR,127.843498,36.448643,5/7/2020,Korean Air
+Republic of Korea,KR,127.843498,36.448643,4/13/2020,T'Way
+Republic of Korea,KR,127.843498,36.448643,4/15/2020,Eastar Jet
+Republic of Korea,KR,127.843498,36.448643,4/17/2020,Air Seoul
+Republic of Korea,KR,127.843498,36.448643,5/22/2020,Jeju Air
+Chile,CL,-71.21981,-35.226443,5/21/2020,LATAM
+Chile,CL,-71.21981,-35.226443,5/13/2020,SKY
+China,CN,104.140337,32.309904,4/21/2020,Air China
+China,CN,104.140337,32.309904,5/5/2020,Air China
+China,CN,104.140337,32.309904,5/2/2020,Beijing Capital Airlines
+China,CN,104.140337,32.309904,4/27/2020,China Southern
+China,CN,104.140337,32.309904,5/22/2020,China Southern
+China,CN,104.140337,32.309904,4/21/2020,Hainan Airlines
+China,CN,104.140337,32.309904,5/22/2020,Juneyao Airlines
+China,CN,104.140337,32.309904,4/14/2020,Sichuan Airlines
+China,CN,104.140337,32.309904,5/27/2020,Sichuan Airlines
+China,CN,104.140337,32.309904,5/22/2020,Xiamen Airlines
+Colombia,CO,-73.079481,3.904939,5/2/2020,Avianca
+Colombia,CO,-73.079481,3.904939,3/30/2020,Avianca
+Colombia,CO,-73.079481,3.904939,5/11/2020,Avianca
+Colombia,CO,-73.079481,3.904939,5/13/2020,GCA Airlines
+Cook Islands,CK,-159.77791,-21.23477,5/14/2020,Air Rarotonga
+Croatia,HR,17.958746,45.451704,5/2/2020,Croatia Airlines
+Croatia,HR,17.958746,45.451704,5/26/2020,Croatia Airlines
+Croatia,HR,17.958746,45.451704,5/25/2020,Croatia Airlines
+Croatia,HR,17.958746,45.451704,8/28/2020,Wind Rose
+Cuba,CU,-79.54237,22.094607,4/22/2020,Cubana de Aviacion
+Czechia,CZ,15.331513,49.73914,5/11/2020,Czech Airlines
+Czechia,CZ,15.331513,49.73914,5/14/2020,Smartwings
+Denmark,DK,9.357947,56.264252,4/20/2020,SAS
+Denmark,DK,9.357947,56.264252,5/27/2020,SAS
+Denmark,DK,9.357947,56.264252,5/19/2020,DAT
+Ecuador,EC,-78.370318,-1.447653,5/12/2020,Avianca Ecuador
+Egypt,EG,29.776611,26.5826,3/16/2020,EgyptAir
+Egypt,EG,29.776611,26.5826,5/4/2020,EgyptAir
+Ethiopia,ET,39.635053,8.631222,4/29/2020,Ethiopian
+Ethiopia,ET,39.635053,8.631222,3/30/2020,Ethiopian
+Ethiopia,ET,39.635053,8.631222,4/3/2020,Ethiopian
+Ethiopia,ET,39.635053,8.631222,5/15/2020,Ethiopian
+Faroe Islands,FO,-7.12897,62.204737,4/29/2020,Atlantic Airways
+Fiji,FJ,177.964016,-17.835777,5/15/2020,Fiji Link
+Fiji,FJ,177.964016,-17.835777,5/15/2020,Fiji Airways
+Finland,FI,23.308447,61.915867,5/18/2020,Finnair
+Finland,FI,23.308447,61.915867,4/17/2020,Finnair
+France,FR,2.45652,46.627084,4/28/2020,ASL Airlines France
+France,FR,2.45652,46.627084,3/18/2020,Air Corsica
+France,FR,2.45652,46.627084,5/11/2020,Air France
+France,FR,2.45652,46.627084,4/17/2020,Air France
+France,FR,2.45652,46.627084,5/6/2020,Air France
+France,FR,2.45652,46.627084,5/19/2020,Air France
+France,FR,2.45652,46.627084,5/7/2020,Air France
+France,FR,2.45652,46.627084,4/6/2020,Corsair
+France,FR,2.45652,46.627084,4/16/2020,Corsair
+France,FR,2.45652,46.627084,5/11/2020,Transavia France
+French Polynesia,PF,-149.40089,-17.677522,5/18/2020,Air Tahiti
+Georgia,GE,43.371361,42.04813,5/18/2020,Georgian Airways
+Germany,DE,10.380614,51.08868,5/21/2020,Condor
+Germany,DE,10.380614,51.08868,5/19/2020,DAT
+Germany,DE,10.380614,51.08868,5/8/2020,Luthansa
+Germany,DE,10.380614,51.08868,4/17/2020,Lufthansa
+Germany,DE,10.380614,51.08868,5/11/2020,Eurowings
+Germany,DE,10.380614,51.08868,5/20/2020,Eurowings
+Germany,DE,10.380614,51.08868,5/18/2020,Eurowings
+Germany,DE,10.380614,51.08868,4/27/2020,Eurowings
+Germany,DE,10.380614,51.08868,5/11/2020,Lufthansa
+Germany,DE,10.380614,51.08868,5/14/2020,Lufthansa
+Germany,DE,10.380614,51.08868,5/24/2020,Lufthansa
+Germany,DE,10.380614,51.08868,5/18/2020,Lufthansa
+Germany,DE,10.380614,51.08868,4/22/2020,Luftfahrgesellschaft Walter
+Germany,DE,10.380614,51.08868,5/21/2020,Condor
+Ghana,GH,-1.205759,7.965053,4/20/2020,Africa World Airways
+Greece,GR,22.583055,39.473008,5/20/2020,Aegean
+Greece,GR,22.583055,39.473008,4/28/2020,Olympic Air
+Greenland,GL,-41.393713,74.756257,4/8/2020,Air Greenland
+Greenland,GL,-41.393713,74.756257,5/20/2020,Air Greenland
+Guadeloupe,GP,-61.679736,16.159503,5/25/2020,Air Antilles
+Guam,GU,144.702964,13.35781,4/30/2020,United Airlines
+Turkey,TR,35.432387,38.988934,5/6/2020,Turkish Airlines
+Turkey,TR,35.432387,38.988934,5/20/2020,Turkish Airlines
+Turkey,TR,35.432387,38.988934,4/16/2020,Turkish Airlines
+Turkey,TR,35.432387,38.988934,4/7/2020,AnadoluJet
+Turkmenistan,TM,58.978766,40.091235,4/24/2020,Turkmenistan Airlines
+Turkmenistan,TM,58.978766,40.091235,4/24/2020,Turkmenistan Airlines
+Uganda,UG,32.391004,1.279556,3/19/2020,Uganda Airlines
+Ukraine,UA,31.40147,49.005714,3/14/2020,UIA
+Ukraine,UA,31.40147,49.005714,4/2/2020,Jonika Airlines
+Ukraine,UA,31.40147,49.005714,4/6/2020,Ryan Air (Italy-Ukraine)
+United Arab Emirates,AE,53.982339,23.434112,4/24/2020,Air Arabia
+United Arab Emirates,AE,53.982339,23.434112,4/13/2020,Flydubai
+United Arab Emirates,AE,53.982339,23.434112,4/25/2020,Ethiad Airways
+United Arab Emirates,AE,53.982339,23.434112,5/9/2020,Ethiad Airways
+United Arab Emirates,AE,53.982339,23.434112,4/23/2020,Ethiad Airways
+United Arab Emirates,AE,53.982339,23.434112,5/11/2020,Ethiad Airways
+United Arab Emirates,AE,53.982339,23.434112,4/13/2020,Emirates
+United Arab Emirates,AE,53.982339,23.434112,4/22/2020,Emirates
+United Arab Emirates,AE,53.982339,23.434112,5/13/2020,Emirates
+United Arab Emirates,AE,53.982339,23.434112,5/25/2020,Emirates
+United Arab Emirates,AE,53.982339,23.434112,5/27/2020,Emirates
+United Kingdom,GB,-0.239652,52.24861,4/29/2020,Aurigny
+United Kingdom,GB,-0.239652,52.24861,4/5/2020,Loganair
+United Kingdom,GB,-0.239652,52.24861,5/14/2020,Eastern Airways
+United Kingdom,GB,-0.239652,52.24861,5/21/2020,EasyJet
+United Kingdom,GB,-0.239652,52.24861,5/21/2020,EasyJet
+United Kingdom,GB,-0.239652,52.24861,3/31/2020,British Airways
+United Kingdom,GB,-0.239652,52.24861,5/16/2020,UK Virgin Atlantic
+United Kingdom,GB,-0.239652,52.24861,5/23/2020,UK Virgin Atlantic
+United Kingdom,GB,-0.239652,52.24861,5/11/2020,British Airways
+United Kingdom,GB,-0.239652,52.24861,3/30/2020,British Airways
+United Kingdom,GB,-0.239652,52.24861,4/6/2020,British Airways
+United Kingdom,GB,-0.239652,52.24861,4/27/2020,British Airways
+United Kingdom,GB,-0.239652,52.24861,4/3/2020,Aurigny
+United Kingdom,GB,-0.239652,52.24861,4/18/2020,British Airways
+United Kingdom,GB,-0.239652,52.24861,5/11/2020,British Airways
+United Kingdom,GB,-0.239652,52.24861,5/7/2020,British Airways
+United Kingdom,GB,-0.239652,52.24861,5/27/2020,British Airways
+United Kingdom,GB,-0.239652,52.24861,4/7/2020,Jet2
+United Kingdom,GB,-0.239652,52.24861,5/22/2020,Jet2
+United States,US,-99.446708,39.40399,4/30/2020,Silver Airways
+United States,US,-99.446708,39.40399,4/6/2020,RavnAir Alaska
+United States,US,-99.446708,39.40399,4/1/2020,Frontier Airlines
+United States,US,-99.446708,39.40399,4/10/2020,Frontier Airlines
+United States,US,-99.446708,39.40399,5/5/2020,Frontier Airlines
+United States,US,-99.446708,39.40399,4/13/2020,Delta
+United States,US,-99.446708,39.40399,4/27/2020,Delta
+United States,US,-99.446708,39.40399,4/26/2020,Delta
+United States,US,-99.446708,39.40399,5/15/2020,Delta
+United States,US,-99.446708,39.40399,5/18/2020,Delta
+United States,US,-99.446708,39.40399,4/27/2020,JetBlue
+United States,US,-99.446708,39.40399,4/27/2020,JetBlue
+United States,US,-99.446708,39.40399,5/5/2020,JetBlue
+United States,US,-99.446708,39.40399,3/26/2020,Alaska Airlines
+United States,US,-99.446708,39.40399,4/6/2020,Alaska Airlines
+United States,US,-99.446708,39.40399,4/7/2020,Alaska Airlines
+United States,US,-99.446708,39.40399,5/13/2020,Alaska Airlines
+United States,US,-99.446708,39.40399,4/7/2020,Elite Airways
+United States,US,-99.446708,39.40399,4/3/2020,Hawaiian Airlines
+United States,US,-99.446708,39.40399,4/25/2020,Hawaiian Airlines
+United States,US,-99.446708,39.40399,5/21/2020,Southwest Airlines
+United States,US,-99.446708,39.40399,3/24/2020,Allegiant Airlines
+United States,US,-99.446708,39.40399,3/20/2020,Compass Airlines
+United States,US,-99.446708,39.40399,3/20/2020,Trans States Airlines
+United States,US,-99.446708,39.40399,4/2/2020,United Airlines
+United States,US,-99.446708,39.40399,4/27/2020,United Airlines
+United States,US,-99.446708,39.40399,5/2/2020,United Airlines
+United States,US,-99.446708,39.40399,5/12/2020,United Airlines
+United States,US,-99.446708,39.40399,5/25/2020,Delta
+United States,US,-99.446708,39.40399,4/6/2020,American Airlines
+United States,US,-99.446708,39.40399,4/28/2020,American Airlines
+United States,US,-99.446708,39.40399,4/27/2020,American Airlines
+United States,US,-99.446708,39.40399,3/24/2020,Hawaiian Airlines
+United States,US,-99.446708,39.40399,4/9/2020,Hawaiian Airlines
+United States,US,-99.446708,39.40399,4/27/2020,Spirit Airlines
+United States,US,-99.446708,39.40399,5/5/2020,Contour Airlines
+United States,US,-99.446708,39.40399,4/15/2020,Pacific Costal
+United States,US,-99.446708,39.40399,5/12/2020,Sun Country Airlines
+United States,US,-99.446708,39.40399,5/25/2020,Delta
+United States,US,-99.446708,39.40399,5/25/2020,United Airlines
+Uzbekistan,UZ,63.119445,41.775605,5/19/2020,Uzbekistan Airways
+Viet Nam,VN,105.802499,10.096431,5/19/2020,Bamboo Airways
+Viet Nam,VN,105.802499,10.096431,4/5/2020,VietJet
+Viet Nam,VN,105.802499,10.096431,4/8/2020,Vietnam Airlines
+Viet Nam,VN,105.802499,10.096431,3/19/2020,VietJet
+Viet Nam,VN,105.802499,10.096431,5/20/2020,Viet Nam Airlines
+Zambia,ZM,27.854152,-14.594525,4/30/2020,Zambia Airways
+Zambia,ZM,27.854152,-14.594525,5/2/2020,ProFlight Zambia
+Zimbabwe,ZW,29.869096,-19.000755,4/14/2020,Fastjet Zimbabwe
+Zimbabwe,ZW,29.869096,-19.000755,3/25/2020,Fastjet Zimbabwe
+Zimbabwe,ZW,29.869096,-19.000755,4/7/2020,Fastjet Zimbabwe
+Republic of Moldova,MD,28.465062,47.202368,5/7/2020,HiSky
+RÈunion,RE,55.532473,-21.133149,3/31/2020,Air Austral
+Romania,RO,24.984983,45.838878,3/30/2020,TAROM
+Romania,RO,24.984983,45.838878,5/11/2020,TAROM
+Romania,RO,24.984983,45.838878,3/25/2020,TAROM
+Romania,RO,24.984983,45.838878,4/8/2020,Wizz Air
+Russian Federation,RU,99.014058,61.618998,3/31/2020,Ural Airlines
+Russian Federation,RU,99.014058,61.618998,4/10/2020,Ural Airlines
+Russian Federation,RU,99.014058,61.618998,3/22/2020,Aeroflot
+Russian Federation,RU,99.014058,61.618998,4/17/2020,Aeroflot
+Russian Federation,RU,99.014058,61.618998,3/19/2020,Rossiya
+Russian Federation,RU,99.014058,61.618998,5/4/2020,Aeroflot
+Russian Federation,RU,99.014058,61.618998,3/28/2020,Azimuth
+Russian Federation,RU,99.014058,61.618998,3/31/2020,Pobeda
+Russian Federation,RU,99.014058,61.618998,4/8/2020,S7 Airlines
+Russian Federation,RU,99.014058,61.618998,5/27/2020,S7 Airlines
+Russian Federation,RU,99.014058,61.618998,5/19/2020,Aurora Airlines
+Rwanda,RW,29.923106,-1.999837,5/8/2020,Rwandair
+Saint Martin,MF,-63.049372,18.082975,5/25/2020,Ait Antilles
+Samoa,WS,-172.44726,-13.620773,3/21/2020,Samoa Airways
+Saudi Arabia,SA,44.547567,24.125926,5/23/2020,Saudia
+Saudi Arabia,SA,44.547567,24.125926,5/27/2020,flynas
+Senegal,SN,-14.446465,14.366687,4/19/2020,Air Senegal
+Serbia,RS,20.803944,44.032994,5/14/2020,Air Serbia
+Serbia,RS,20.803944,44.032994,5/25/2020,Air Serbia
+Seychelles,SC,55.467266,-4.678402,5/14/2020,Air Seychelles
+Singapore,SG,103.810539,1.357382,4/25/2020,Singapore Airlines
+Singapore,SG,103.810539,1.357382,4/7/2020,Singapore Airlines
+Singapore,SG,103.810539,1.357382,4/21/2020,Singapore Airlines
+Singapore,SG,103.810539,1.357382,5/1/2020,Jetstar Asia
+Singapore,SG,103.810539,1.357382,5/21/2020,Scoot
+Singapore,SG,103.810539,1.357382,5/25/2020,Jetstar Asia
+Solomon Islands,SB,160.160046,-9.622475,5/19/2020,Solomon Airlines
+South Africa,ZA,24.669618,-29.999172,4/30/2020,Comair
+South Africa,ZA,24.669618,-29.999172,3/21/2020,SAA
+South Africa,ZA,24.669618,-29.999172,3/24/2020,SAA
+South Africa,ZA,24.669618,-29.999172,5/26/2020,SAA
+South Africa,ZA,24.669618,-29.999172,3/18/2020,SA Express
+Spain,ES,-3.553995,40.392124,5/25/2020,Volotea
+Spain,ES,-3.553995,40.392124,3/16/2020,Iberia
+Spain,ES,-3.553995,40.392124,3/16/2020,Vueling
+Spain,ES,-3.553995,40.392124,5/28/2020,Iberia
+Spain,ES,-3.553995,40.392124,5/28/2020,Vueling
+Spain,ES,-3.553995,40.392124,4/29/2020,Binter
+Spain,ES,-3.553995,40.392124,5/16/2020,Air Nostrum
+Sri Lanka,LK,80.702028,7.610407,5/12/2020,SriLankan Airlines
+Sri Lanka,LK,80.702028,7.610407,4/15/2020,SriLankan Airlines
+Sweden,SE,14.377534,60.601031,5/28/2020,SAS
+Sweden,SE,14.377534,60.601031,5/27/2020,SAS
+Sweden,SE,14.377534,60.601031,4/1/2020,BRA
+Switzerland,CH,8.223234,46.9685,4/18/2020,Swiss
+Switzerland,CH,8.223234,46.9685,5/10/2020,Swiss
+Switzerland,CH,8.223234,46.9685,4/3/2020,Swiss
+Switzerland,CH,8.223234,46.9685,5/15/2020,Swiss
+Switzerland,CH,8.223234,46.9685,4/23/2020,Chair Airlines
+Taiwan,TW,120.969668,23.750541,5/7/2020,EVA Air
+Taiwan,TW,120.969668,23.750541,4/27/2020,EVA Air
+Taiwan,TW,120.969668,23.750541,5/13/2020,EVA Air
+Taiwan,TW,120.969668,23.750541,4/2/2020,China Airlines
+Taiwan,TW,120.969668,23.750541,5/13/2020,tigerair Taiwan
+Thailand,TH,101.020295,15.130893,4/21/2020,Nok Air
+Thailand,TH,101.020295,15.130893,4/21/2020,Thai AirAsia
+Thailand,TH,101.020295,15.130893,5/5/2020,Thai Lion Air
+Thailand,TH,101.020295,15.130893,5/6/2020,Bangkok Airways
+Thailand,TH,101.020295,15.130893,5/8/2020,Thai Airways International
+Thailand,TH,101.020295,15.130893,5/19/2020,Thai Airways International
+Thailand,TH,101.020295,15.130893,5/5/2020,Thai Smile
+Thailand,TH,101.020295,15.130893,4/27/2020,Thai VietJet
+Tunisia,TN,9.560349,33.774827,4/11/2020,Nouvelair Tunisie
+Tunisia,TN,9.560349,33.774827,4/17/2020,Tunisair
+Turkey,TR,35.432387,38.988934,4/28/2020,Turkish Airlines
+Turkey,TR,35.432387,38.988934,3/24/2020,Corredon Airlines
+Turkey,TR,35.432387,38.988934,3/30/2020,Turkish Airlines
+Guyana,GY,-58.972763,4.792405,4/20/2020,Liat
+Hong Kong,HK,114.026644,22.397976,4/15/2020,HK Express
+Hong Kong,HK,114.026644,22.397976,5/13/2020,Cathay Pacific
+Hong Kong,HK,114.026644,22.397976,5/8/2020,Hong Kong Airlines
+Hong Kong,HK,114.026644,22.397976,4/3/2020,Cathay Pacific
+Hong Kong,HK,114.026644,22.397976,4/16/2020,Cathay Pacific
+Hong Kong,HK,114.026644,22.397976,4/24/2020,Cathay Pacific
+Hungary,HU,19.412215,47.16514,5/4/2020,Wizz Air
+Iceland,IS,-19.013973,64.790408,5/18/2020,Icelandair
+Iceland,IS,-19.013973,64.790408,5/19/2020,Icelandair
+Iceland,IS,-19.013973,64.790408,4/29/2020,Air Iceland Connect
+India,IN,79.357702,22.348341,4/5/2020,Air Deccan
+India,IN,79.357702,22.348341,4/4/2020,Air india
+India,IN,79.357702,22.348341,5/4/2020,Air India
+India,IN,79.357702,22.348341,5/13/2020,Air India
+India,IN,79.357702,22.348341,5/28/2020,Air India
+India,IN,79.357702,22.348341,4/4/2020,AirAsia india
+India,IN,79.357702,22.348341,4/22/2020,GoAir
+India,IN,79.357702,22.348341,4/17/2020,Vistara
+India,IN,79.357702,22.348341,4/14/2020,IndiGo
+India,IN,79.357702,22.348341,5/5/2020,Vistara
+Indonesia,ID,113.914701,-0.989601,3/27/2020,Indonesia AirAsia
+Indonesia,ID,113.914701,-0.989601,4/24/2020,Garuda Indonesia
+Indonesia,ID,113.914701,-0.989601,4/23/2020,Garuda Indonesia
+Indonesia,ID,113.914701,-0.989601,5/27/2020,Lion Air
+Iran (Islamic Republic of),IR,54.198056,32.741278,4/4/2020,Iran Air
+Iran (Islamic Republic of),IR,54.198056,32.741278,5/11/2020,Iran Air
+Ireland,IE,-7.121425,53.252771,3/23/2020,Aer Lingus
+Ireland,IE,-7.121425,53.252771,5/1/2020,Ryanair
+Ireland,IE,-7.121425,53.252771,4/9/2020,Ryanair
+Ireland,IE,-7.121425,53.252771,5/12/2020,Ryanair
+Ireland,IE,-7.121425,53.252771,4/27/2020,Ryanair
+Ireland,IE,-7.121425,53.252771,5/11/2020,Ryanair
+Ireland,IE,-7.121425,53.252771,4/8/2020,TUI
+Ireland,IE,-7.121425,53.252771,4/29/2020,Aer Lingus
+Israel,IL,34.62278,31.061646,3/30/2020,Wizz Air
+Israel,IL,34.62278,31.061646,5/20/2020,EL AL
+Israel,IL,34.62278,31.061646,5/15/2020,El AL
+Israel,IL,34.62278,31.061646,5/21/2020,El AL
+Israel,IL,34.62278,31.061646,5/26/2020,Blue Air
+Italy,IT,12.573635,42.793176,4/20/2020,Alitalia
+Italy,IT,12.573635,42.793176,4/11/2020,Alitalia
+Italy,IT,12.573635,42.793176,5/20/2020,Alitalia
+Italy,IT,12.573635,42.793176,5/22/2020,Air Dolomiti
+Italy,IT,12.573635,42.793176,3/17/2020,Alitalia
+Italy,IT,12.573635,42.793176,4/16/2020,Alitalia
+Italy,IT,12.573635,42.793176,4/27/2020,Volotea
+Italy,IT,12.573635,42.793176,5/7/2020,Blue Panorama
+Italy,IT,12.573635,42.793176,5/21/2020,Ryanair Italy
+Italy,IT,12.573635,42.793176,8/28/2020,Air France
+Japan,JP,139.27161,36.655454,4/14/2020,JAL
+Japan,JP,139.27161,36.655454,4/2/2020,Spring Airlines Japan
+Japan,JP,139.27161,36.655454,4/28/2020,Spring Airlines Japan
+Japan,JP,139.27161,36.655454,4/21/2020,StarFlyer
+Japan,JP,139.27161,36.655454,4/30/2020,JAL
+Japan,JP,139.27161,36.655454,5/14/2020,JAL
+Japan,JP,139.27161,36.655454,4/30/2020,ANA
+Japan,JP,139.27161,36.655454,4/21/2020,ANA
+Japan,JP,139.27161,36.655454,5/14/2020,ANA
+Japan,JP,139.27161,36.655454,4/10/2020,AirAsia Japan
+Japan,JP,139.27161,36.655454,4/27/2020,Fuji Dream Airlines
+Japan,JP,139.27161,36.655454,5/26/2020,Peach
+Japan,JP,139.27161,36.655454,5/14/2020,Nippon Airways
+Japan,JP,139.27161,36.655454,5/19/2020,Jetstar Japan
+Japan,JP,139.27161,36.655454,5/26/2020,Solaseed Airlines
+Jordan,JO,37.129891,30.653807,3/26/2020,Royal Jordanian
+Kazakhstan,KZ,66.653592,48.019634,4/29/2020,SCAT Air Company
+Kazakhstan,KZ,66.653592,48.019634,5/15/2020,Air Astana
+Kazakhstan,KZ,66.653592,48.019634,5/17/2021,Air Astana
+Kazakhstan,KZ,66.653592,48.019634,5/15/2020,Qazaq Air
+Kenya,KE,37.861019,0.53472,5/20/2020,Jambojet
+Kenya,KE,37.861019,0.53472,4/29/2020,Kenya Airways
+Kenya,KE,37.861019,0.53472,4/2/2020,Kenya Airways
+Kiribati,KI,-157.36432,1.85776,5/13/2020,Air Kiribati
+Kuwait,KW,47.492598,29.53972,4/19/2020,Kuwait Airways
+Latvia,LV,26.424619,56.641966,5/23/2020,airBaltic
+Luxembourg,LU,6.092653,49.776797,5/15/2020,Luxair
